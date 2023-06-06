@@ -23,9 +23,9 @@ Check out my portfolio for some of the projects I have worked on:
 
 ## Contact me 📧
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=flat-square)](https://your-portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-Send%20Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=flat-square)](https://carlaml01.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlamotaleal/)
+[![Gmail](https://img.shields.io/badge/Gmail-Send%20Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lmota.carla@gmail.com)
 
 <!--
 **CarlaML01/CarlaML01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
