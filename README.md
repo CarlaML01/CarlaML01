@@ -1,6 +1,31 @@
-### Hi / Oi 👋
+![hello](https://media.giphy.com/media/t8s4dpt4sa6uxYf1EG/giphy.gif)
+### I am Carla 👋✨
 
-It's so so so good to see you here! 
+Welcome to my github profile page. I am a research assistant and aspire data analyst with a passion for extracting insights from data. My goal is to support sustainable and effective decision making under problem-solving approaches using data analytics. 
+
+## Skills 📊📈🧠
+- Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- SQL ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- R ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+- Anaconda ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+- Jupyter Notebook ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+- Numpy ![Numpy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+- Pandas ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- Matplotlib ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+- Excel ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+- Tableau ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+- and always learning more :)
+
+## Portfolio 💼
+Check out my portfolio for some of the projects I have worked on:
+[Portfolio](https://carlaml01.github.io/)
+> Here in my repositories you will check some of them as well :)
+
+## Contact me 📧
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=flat-square)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-Send%20Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 <!--
 **CarlaML01/CarlaML01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
