@@ -19,7 +19,7 @@ Welcome to my github profile page. I am a research assistant and aspire data ana
 ## Portfolio 💼
 Check out my portfolio for some of the projects I have worked on:
 [Portfolio](https://carlaml01.github.io/)
-> Here in my repositories you will check some of them as well :)
+> Here in my repositories you will see some of them as well :)
 
 ## Contact me 📧
 
