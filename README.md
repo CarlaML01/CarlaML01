@@ -1,7 +1,7 @@
 ![hello](https://media.giphy.com/media/t8s4dpt4sa6uxYf1EG/giphy.gif)
 ### I am Carla 👋✨
 
-Welcome to my github profile page. I am a research assistant and aspire data analyst with a passion for extracting insights from data. My goal is to support sustainable and effective decision making under problem-solving approaches using data analytics. 
+Welcome to my github profile page. I am an engineer, data research assistant and aspire data analyst with a passion for extracting insights from data. My goal is to support sustainable and effective decision making under problem-solving approaches using data analytics. 
 
 ## Skills 📊📈🧠
 - Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
