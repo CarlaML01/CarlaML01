@@ -1,4 +1,5 @@
-![hello](https://media.giphy.com/media/t8s4dpt4sa6uxYf1EG/giphy.gif)
+![hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtmMDNiOWl6NzBqMmtjeWt0cm95cjF2ZmNsMzdiMDd5ZG12emVybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif)
+
 ### I am Carla 👋✨
 
 Welcome to my github profile page. I am an engineer, data research assistant and aspire data analyst with a passion for extracting insights from data. My goal is to support sustainable and effective decision making under problem-solving approaches using data analytics. 
@@ -19,13 +20,12 @@ Welcome to my github profile page. I am an engineer, data research assistant and
 
 
 ## Portfolio 💼
-Check out my portfolio for some of the projects I have worked on:
-[Portfolio](https://carlaml01.github.io/)
+Under construction
+
 > Here in my repositories you will see some of them as well :)
 
 ## Contact me 📧
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=flat-square)](https://carlaml01.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlamotaleal/)
 [![Gmail](https://img.shields.io/badge/Gmail-Send%20Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lmota.carla@gmail.com)
 
