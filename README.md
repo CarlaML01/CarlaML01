@@ -2,7 +2,7 @@
 
 ### I am Carla 👋✨
 
-Welcome to my github profile page. I am an engineer, data research assistant and aspire data analyst with a passion for extracting insights from data. My goal is to support sustainable and effective decision making under problem-solving approaches using data analytics. 
+Welcome to my github profile page. I am an ag. engineer, previous bioinformatics research assistant and now Data Quality Analyst with a passion for extracting insights from data. My goal is to support sustainable and effective decision making under problem-solving approaches using data analytics. 
 
 ## Skills 📊📈🧠
 - Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -14,6 +14,7 @@ Welcome to my github profile page. I am an engineer, data research assistant and
 - Pandas ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - Matplotlib ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 - Excel ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+- PowerBi
 - Tableau ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 - and always learning more :)
 
@@ -22,7 +23,7 @@ Welcome to my github profile page. I am an engineer, data research assistant and
 ## Portfolio 💼
 Under construction
 
-> Here in my repositories you will see some of them as well :)
+> Here in my repositories you will see some of them also :)
 
 ## Contact me 📧
 
